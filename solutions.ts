@@ -14,7 +14,7 @@ function reverseString(str: string): string {
 }
 
 // Output
-console.log(reverseString("typescript"));
+console.log(reverseString("typescript")); 
 
 
 //---------------------------------------------------------------
