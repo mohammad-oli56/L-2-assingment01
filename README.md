@@ -60,7 +60,7 @@ This assignment covers fundamental TypeScript concepts including type safety, ge
 tsc solutions.ts
 
 # Run compiled JavaScript
-node solutions.js
+node solutions.js or node ./solutions.js 
 ```
 
 ---
