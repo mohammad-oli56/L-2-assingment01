@@ -1,4 +1,4 @@
-# Assignment 07 — Advanced Problem Solving with TypeScript & OOP
+# Assignment 01 — Problem Solving with TypeScript & OOP
 
 ## 📋 Overview
 This assignment covers fundamental TypeScript concepts including type safety, generics, interfaces, class inheritance, and OOP principles through practical problem solving.
@@ -6,7 +6,7 @@ This assignment covers fundamental TypeScript concepts including type safety, ge
 ---
 
 ## 🔗 Live Links
-- 🖥️ **GitHub Repo:** [your-repo-link-here](#)
+- 🖥️ **GitHub Repo:** [https://github.com/mohammad-oli56/L-2-assingment01](#)
 
 ---
 
